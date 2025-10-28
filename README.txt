@@ -1,4 +1,4 @@
-##Projeto: Casa das Latinas
+Projeto: Casa das Latinas
 Descrição: Site exemplo (HTML5, CSS3, JS) para plataforma de apoio a mulheres estrangeiras latinas no Brasil.
 Estrutura:
   - index.html
